@@ -1,0 +1,9 @@
+{"runs": [
+ {"start": 68185, "end": 68337, "label": "H"},
+ {"start": 68338, "end": 68630, "label": "D"},
+ {"start": 68631, "end": 68661, "label": "A"},
+ {"start": 68662, "end": 68728, "label": "H"},
+ {"start": 68729, "end": 68934, "label": "A"}
+],
+"notes": "68185: Barca on the ball in live play after their free kick (~68140), TV replay overlapping. 68338: Barca long diagonal to Balde (#3) runs over the far touchline -> dead. 68631: Athletic throw-in taken (thrower at the line ~68630). Throw contested in the air; 68662: Barca player collects it at his feet and plays it forward to the box edge, where a Barca player receives it (~68700). 68729: Barca player loses the duel at the box edge; an Athletic player plays it out and Athletic collect the loose ball (~68795), then dribble and pass up the field to the end of the piece."
+}

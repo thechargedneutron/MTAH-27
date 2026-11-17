@@ -1,0 +1,11 @@
+data/
+work/
+__pycache__/
+*.mp4
+*.npz
+*.npy
+*.pkl
+*.jpg
+*.png
+*.csv
+!submission/*.csv

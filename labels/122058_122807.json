@@ -1,0 +1,7 @@
+{"runs": [
+ {"start": 122058, "end": 122189, "label": "H"},
+ {"start": 122190, "end": 122243, "label": "A"},
+ {"start": 122244, "end": 122407, "label": "H"},
+ {"start": 122408, "end": 122807, "label": "D"}
+],
+"notes": "122058: Barca dribbling in midfield, passes to winger on near touchline (A touch at 122078 is a duel, not control). 122190: Athletic player wins duel and runs with ball at his feet for ~2 s (dA<1, Barca player 5 m behind). 122244: Barca player catches him and wins it back, carries along touchline; contested touchline duel ~122275-122295, ball pushed into box rolls across and Barca player collects at edge of box ~122360, shoots ~122388. 122408: shot goes wide past the post over the goal line -> goal kick; keeper still setting up/holding ball at end of piece, D to the end."}

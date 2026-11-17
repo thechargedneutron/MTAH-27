@@ -1,0 +1,5 @@
+# CPU steps (Python 3.12.3): per-window signals, segment review views, assembly
+numpy==2.5.4
+pandas==3.1.0
+pillow==13.0.0
+scipy==1.18.1

@@ -1,0 +1,7 @@
+{"runs": [
+ {"start": 170058, "end": 170159, "label": "D"},
+ {"start": 170160, "end": 170213, "label": "H"},
+ {"start": 170214, "end": 170565, "label": "D"},
+ {"start": 170566, "end": 170807, "label": "A"}
+],
+"notes": "170058-170159: stoppage continues (Barca substitution Bernal->Eric, throw-in pending; the static ball at x~19.8,y~-3.4 is a spare ball off the pitch). 170160: Barca throw-in released (thrower at top touchline x~29). 170214: ball crosses top touchline after a duel between the Barca player and an Athletic defender, no Athletic control; ball rolls along outside to x~60, gets brought back, players walk (plv ~1). 170566: Athletic throw-in from top touchline at x~28; Athletic then keeps the ball (dribble/passes on the left) to the end of the piece."}

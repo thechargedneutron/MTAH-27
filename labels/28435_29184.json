@@ -1,0 +1,7 @@
+{"runs": [
+ {"start": 28435, "end": 28851, "label": "H"},
+ {"start": 28852, "end": 28951, "label": "A"},
+ {"start": 28952, "end": 29022, "label": "H"},
+ {"start": 29023, "end": 29184, "label": "D"}
+],
+"notes": "28435-28851 Barcelona slow build-up around halfway (low plv but live play, all passes reach Barca players). 28852: Athletic #6 intercepts/controls a ball near (75,42) after the Barca player loses it, then Athletic dribbles/passes (#10) until ~28950. 28952: Barca player wins the ball back at (80,45) and dribbles into the box; a sliding Athletic tackle at ~29010 only knocks the ball on, no control. 29023: ball rolls over the goal line just wide of the right post (x>105, y~40); players slow, TV cuts to close-ups/replay until the end of the piece, no restart seen. The static ball at (94.4,33.8) after 29030 is a false detection."}

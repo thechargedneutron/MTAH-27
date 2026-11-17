@@ -1,0 +1,9 @@
+{"runs": [
+ {"start": 127308, "end": 127349, "label": "D"},
+ {"start": 127350, "end": 127401, "label": "A"},
+ {"start": 127402, "end": 127465, "label": "H"},
+ {"start": 127466, "end": 127499, "label": "A"},
+ {"start": 127500, "end": 127617, "label": "D"},
+ {"start": 127618, "end": 128057, "label": "H"}
+],
+"notes": "127308-127349 D: Athletic throw-in waiting at top touchline (stationary off-pitch detection at 19.9,-3.3 is a spare ball); throw taken ~127350 -> A. 127402 Barcelona player collects the loose ball after the throw/flick (dH 0.1 from 127404) -> H. ~127466 Athletic player tackles and keeps the ball ~1 s then kicks it toward the touchline -> A. Ball crosses top touchline ~127500 -> D (replay 127559-127619). Barcelona throw-in taken ~127618 -> H; Barcelona keep possession with passes through to 128057 (slow plv 127846-127880 is build-up, ball moving)."}

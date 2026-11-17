@@ -1,0 +1,9 @@
+{"runs": [
+ {"start": 42685, "end": 42746, "label": "D"},
+ {"start": 42747, "end": 42856, "label": "A"},
+ {"start": 42857, "end": 42951, "label": "H"},
+ {"start": 42952, "end": 43046, "label": "A"},
+ {"start": 43047, "end": 43208, "label": "D"},
+ {"start": 43209, "end": 43434, "label": "H"}
+],
+"notes": "42685-42746 D: ball dead at the corner flag waiting for Athletic's corner (TV close-up of the taker); corner taken at 42747 (ball leaves the corner). 42747 A: corner, goalmouth scramble, ball cleared from the box in the air with no Barca control. 42857 H: Barca player at the edge of the arc controls the clearance and dribbles upfield. 42952 H->A: ball runs loose ahead of the Barca dribbler, Athletic player picks it up near halfway and passes out to the far touchline. 43047 D: Athletic duel at the touchline, ball rolls out over the far touchline (y<0). 43209 H: Barca throw-in taken (thrower holds the ball over his head 43140-43208), Barca keep possession through a slow build-up in their half to the end."}

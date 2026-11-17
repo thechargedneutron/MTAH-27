@@ -1,0 +1,10 @@
+{"runs": [
+ {"start": 88435, "end": 88506, "label": "D"},
+ {"start": 88507, "end": 88589, "label": "A"},
+ {"start": 88590, "end": 88631, "label": "H"},
+ {"start": 88632, "end": 88696, "label": "A"},
+ {"start": 88697, "end": 88969, "label": "D"},
+ {"start": 88970, "end": 88995, "label": "A"},
+ {"start": 88996, "end": 89184, "label": "D"}
+],
+"notes": "88435-88506 stoppage (ball still at 88.4,48, plv~1, close-ups) until Athletic keeper's free kick long ball at 88507. Long ball lands on a Barca player ~88588 who controls and plays it forward -> H 88590. Athletic player wins it in duel ~88632 and dribbles to the touchline; ball crosses y=68 at ~88697 -> D. Athletic (Williams #10) throw-in at ~88970 -> A. Ball then rolls unattended, players walk, plv drops to ~1.2, close-ups of Lewandowski with ball and bench area (likely stoppage/substitution) -> D from ~88996 to end."}

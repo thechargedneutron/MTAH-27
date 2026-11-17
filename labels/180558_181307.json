@@ -1,0 +1,7 @@
+{"runs": [
+ {"start": 180558, "end": 180597, "label": "A"},
+ {"start": 180598, "end": 180835, "label": "H"},
+ {"start": 180836, "end": 180892, "label": "A"},
+ {"start": 180893, "end": 181307, "label": "D"}
+],
+"notes": "Start: Athletic attack, duel at the corner of Barca's box (Athletic still in possession). ~180558 Barca #22 pokes ball out of the duel, teammate collects ~180598 and dribbles up the touchline -> H. Athletic touches at 180651 and the chest-block at ~180774 on Barca's infield pass were not controlled; Barca player picks it up ~180780 and dribbles on. ~180830 Barca dribbler goes down in a tussle, Athletic player comes away with the ball 180836, dribbles and passes to the right touchline -> A. Players appeal/referee signals ~180890-180895, Athletic player releases ball, Barca player kicks it away 180918, plv drops to ~1, replays from 180999, ball later placed near touchline (x~68,y~1.5) for a Barca free kick not taken before 181307 -> D from 180893 to the end."}

@@ -1,0 +1,8 @@
+{"runs": [
+ {"start": 53935, "end": 54163, "label": "D"},
+ {"start": 54164, "end": 54362, "label": "A"},
+ {"start": 54363, "end": 54477, "label": "H"},
+ {"start": 54478, "end": 54511, "label": "A"},
+ {"start": 54512, "end": 54684, "label": "H"}
+],
+"notes": "53935-54163 D: stoppage, ball still at x~84.6 by Athletic GK, plv ~1, set piece; GK kicks long at 54164 -> A. Long ball lands ~54240 in Barca half, series of headers/loose ball (no control) until a Barca player controls at his feet ~54363 and lofts it up the right touchline to a teammate (controls ~54428) -> H. Touchline duel: Athletic player wins the loose ball ~54478 and holds it ~1 s (Metrica tags a Barca regain at 54481) -> short A; Barca #11 wins it back ~54512 -> H, keeps it, through ball at ~54645 chased by an Athletic defender who does not control it (Barca player reaches it after B), so H to end."}

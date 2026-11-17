@@ -8,8 +8,8 @@ This is a submission to **More than a Hack 2027**, the Metrica Sports × FC Barc
 
 | deliverable | location |
 |---|---|
-| Possession file (199 319 rows, `frame,label`) | [`submission/BAR-ATH_possession.csv`](submission/BAR-ATH_possession.csv) |
-| Technical report | [`TECHNICAL_REPORT.md`](TECHNICAL_REPORT.md) |
+| Possession file (199 319 rows, `frame,label`) | [`submission/Pikash07.csv`](submission/Pikash07.csv) |
+| Technical report | [`Pikash07.md`](Pikash07.md) |
 | Code that reproduces the file | this repository; see [Reproduction](#reproduction) |
 
 On the public 5 minutes, the official scorer gives the file **spellF1 0.560** and **macroF1 0.910**. The best provided
@@ -45,7 +45,7 @@ The repository contains **no competition data**: no video, tracking, tagging, ho
 ```
 
 This joins the 212 stored segment files in `labels/` and checks that the result is byte-identical to
-`submission/BAR-ATH_possession.csv` (sha256 `6336564c58508a0031d73524aa54edb686f4d388ba5e6d03267b359d6be19bab`).
+`submission/Pikash07.csv` (sha256 `6336564c58508a0031d73524aa54edb686f4d388ba5e6d03267b359d6be19bab`).
 
 ### Full pipeline from the raw data
 
@@ -75,7 +75,7 @@ new run gives a file of similar quality, not the same bytes. This is why the lab
 
 ```bash
 python eval/split_public_gt.py <competition repo>/evaluation/gt/BAR-ATH_possession_gt_public.csv eval/gt
-MTAH_EVAL=<competition repo>/evaluation eval/score.sh eval/gt/gt_holdout.csv submission/BAR-ATH_possession.csv
+MTAH_EVAL=<competition repo>/evaluation eval/score.sh eval/gt/gt_holdout.csv submission/Pikash07.csv
 ```
 
 ## Licence

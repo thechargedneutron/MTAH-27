@@ -172,7 +172,7 @@ held-out part alone. The differences between versions are within run-to-run vari
 
 ## 7. Reproduction
 
-- **Exact.** `./reproduce.sh` rebuilds `submission/BAR-ATH_possession.csv` **byte for byte** from the 212 stored segment
+- **Exact.** `./reproduce.sh` rebuilds `submission/Pikash07.csv` **byte for byte** from the 212 stored segment
   labels in `labels/`, using only the Python standard library. Its sha256 begins `6336564c…`.
 - **Full pipeline.** `README.md` lists the five steps from the raw data: detection, frame extraction, per-window
   signals, segment labelling and assembly.
